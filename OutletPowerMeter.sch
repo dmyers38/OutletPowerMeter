@@ -2038,15 +2038,15 @@ Wire Wire Line
 Wire Wire Line
 	700  7100 700  7200
 $Comp
-L Device:C_Small C6
+L Device:CP1_Small C6
 U 1 1 5EEE7C78
 P 1050 7200
 F 0 "C6" H 1142 7246 50  0000 L CNN
 F 1 "100u" H 1142 7155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 1050 7200 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder" H 1050 7200 50  0001 C CNN
 F 3 "~" H 1050 7200 50  0001 C CNN
 	1    1050 7200
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:R R10
