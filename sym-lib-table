@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name MyCustom_Symbols)(type Legacy)(uri ${KIPRJMOD}/Symbols/MyCustom_Symbols.lib)(options "")(descr ""))
+  (lib (name OutletPowerMeter-rescue)(type Legacy)(uri ${KIPRJMOD}/OutletPowerMeter-rescue.lib)(options "")(descr ""))
 )
